@@ -1,4 +1,4 @@
-//Create a Class game ,which allows a user to play "Guess the Number " game once
+//Create a Class game ,which allows a user to play "Guess the Number" game
 
 import java.util.Random;
 import java.util.Scanner;
